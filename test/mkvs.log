@@ -1,0 +1,4 @@
+2017-03-26 14:32:08,372 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 14:32:08,374 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50000 10 FIFO 3fd80d6ba8cba4c4 ddc3fd80341f8d8f3aa6792ddea83d9e & to launch script
+2017-03-26 14:32:08,848 INFO  [main] root: Connection established
+2017-03-26 14:32:09,860 INFO  [main] root: Connection established

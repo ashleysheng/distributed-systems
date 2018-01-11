@@ -1,0 +1,190 @@
+2017-03-26 22:03:04,086 INFO  [main] root: Added the server server1 127.0.0.1 50000 to server pool
+2017-03-26 22:03:04,087 INFO  [main] root: Added the server server2 127.0.0.1 50001 to server pool
+2017-03-26 22:03:04,087 INFO  [main] root: Added the server server3 127.0.0.1 50002 to server pool
+2017-03-26 22:03:04,088 INFO  [main] root: Added the server server4 127.0.0.1 50003 to server pool
+2017-03-26 22:03:04,089 INFO  [main] root: Added the server server5 127.0.0.1 50004 to server pool
+2017-03-26 22:03:04,090 INFO  [main] root: Added the server server6 127.0.0.1 50005 to server pool
+2017-03-26 22:03:04,090 INFO  [main] root: Added the server server7 127.0.0.1 50006 to server pool
+2017-03-26 22:03:04,092 INFO  [main] root: Added the server server8 127.0.0.1 50007 to server pool
+2017-03-26 22:03:04,092 INFO  [main] root: Successfully added all configs
+2017-03-26 22:03:04,099 INFO  [Thread-0] root: ECS listening on port: 8888
+2017-03-26 22:03:04,181 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:03:04,183 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50000 10 FIFO 3fe3b3723886f745 ddc3fd80341f8d8f3aa6792ddea83d9e & to launch script
+2017-03-26 22:03:04,699 INFO  [main] root: Connection established
+2017-03-26 22:03:04,726 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:03:04,727 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50001 10 FIFO 3fdbe3be39265122 61235262bbcf66352227ca8fac0615f3 & to launch script
+2017-03-26 22:03:05,042 INFO  [main] root: Connection established
+2017-03-26 22:03:05,053 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:03:05,053 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50002 10 FIFO 3fc854de5358d0f0 1752af20beba3cdb5e87f5be2dd3c5de & to launch script
+2017-03-26 22:03:05,376 INFO  [main] root: Connection established
+2017-03-26 22:03:05,386 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:03:05,386 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50003 10 FIFO 3fe116bc51184ecd 6020eaa7d5ae97c154bf98f6e8987d4 & to launch script
+2017-03-26 22:03:05,701 INFO  [main] root: Connection established
+2017-03-26 22:03:05,711 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:03:05,711 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50004 10 FIFO 3fca4b62a1e076fc 1d4069d9c7595fd46ff64e61cba5519e & to launch script
+2017-03-26 22:03:05,965 INFO  [main] root: Connection established
+2017-03-26 22:03:05,975 DEBUG [main] root: Metadata Stringified: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004
+2017-03-26 22:03:05,976 DEBUG [main] root: Current order of hashes: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-26 22:03:05,987 INFO  [main] root: Connection established
+2017-03-26 22:03:05,995 INFO  [main] root: Connection established
+2017-03-26 22:03:05,995 INFO  [main] root: try to close connection ...
+2017-03-26 22:03:05,995 DEBUG [main] root: tearing down the connection ...
+2017-03-26 22:03:05,996 DEBUG [main] root: connection closed!
+2017-03-26 22:03:05,996 INFO  [main] root: Connection terminated
+2017-03-26 22:03:05,998 INFO  [main] root: Connection established
+2017-03-26 22:03:06,017 DEBUG [main] root: INSIDE ECS SHUTDOWN, ABOUT TO SET LISTENER RUNNING TO FALSE
+2017-03-26 22:03:06,017 INFO  [Thread-0] root: Socket is closed
+2017-03-26 22:04:35,505 INFO  [main] root: Added the server server1 127.0.0.1 50000 to server pool
+2017-03-26 22:04:35,505 INFO  [main] root: Added the server server2 127.0.0.1 50001 to server pool
+2017-03-26 22:04:35,506 INFO  [main] root: Added the server server3 127.0.0.1 50002 to server pool
+2017-03-26 22:04:35,506 INFO  [main] root: Added the server server4 127.0.0.1 50003 to server pool
+2017-03-26 22:04:35,506 INFO  [main] root: Added the server server5 127.0.0.1 50004 to server pool
+2017-03-26 22:04:35,506 INFO  [main] root: Added the server server6 127.0.0.1 50005 to server pool
+2017-03-26 22:04:35,507 INFO  [main] root: Added the server server7 127.0.0.1 50006 to server pool
+2017-03-26 22:04:35,507 INFO  [main] root: Added the server server8 127.0.0.1 50007 to server pool
+2017-03-26 22:04:35,507 INFO  [main] root: Successfully added all configs
+2017-03-26 22:04:35,507 INFO  [Thread-45] root: ECS listening on port: 8888
+2017-03-26 22:04:35,513 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:04:35,514 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50000 10 FIFO 3fe12918bc9d89b8 ddc3fd80341f8d8f3aa6792ddea83d9e & to launch script
+2017-03-26 22:04:35,847 INFO  [main] root: Connection established
+2017-03-26 22:04:35,865 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:04:35,865 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50001 10 FIFO 3fdcfc115372a6c6 61235262bbcf66352227ca8fac0615f3 & to launch script
+2017-03-26 22:04:35,906 ERROR [Thread-44] root: Connection lost!
+2017-03-26 22:04:35,907 DEBUG [Thread-44] root: tearing down the connection ...
+2017-03-26 22:04:35,907 DEBUG [Thread-44] root: connection closed!
+2017-03-26 22:04:35,907 WARN  [Thread-44] root: Connection lost.
+2017-03-26 22:04:36,219 INFO  [main] root: Connection established
+2017-03-26 22:04:36,235 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:04:36,235 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50002 10 FIFO 3fd165d250d84272 1752af20beba3cdb5e87f5be2dd3c5de & to launch script
+2017-03-26 22:04:36,451 INFO  [main] root: Connection established
+2017-03-26 22:04:36,464 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:04:36,465 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50003 10 FIFO 3fd7a3155116b75a 6020eaa7d5ae97c154bf98f6e8987d4 & to launch script
+2017-03-26 22:04:36,675 INFO  [main] root: Connection established
+2017-03-26 22:04:36,689 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:04:36,689 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50004 10 FIFO 3fd9945fecd57a0e 1d4069d9c7595fd46ff64e61cba5519e & to launch script
+2017-03-26 22:04:36,901 INFO  [main] root: Connection established
+2017-03-26 22:04:36,917 DEBUG [main] root: Metadata Stringified: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004
+2017-03-26 22:04:36,917 DEBUG [main] root: Current order of hashes: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-26 22:04:36,921 INFO  [main] root: Connection established
+2017-03-26 22:04:36,928 INFO  [main] root: Connection established
+2017-03-26 22:04:36,928 INFO  [main] root: try to close connection ...
+2017-03-26 22:04:36,928 DEBUG [main] root: tearing down the connection ...
+2017-03-26 22:04:36,929 DEBUG [main] root: connection closed!
+2017-03-26 22:04:36,929 INFO  [main] root: Connection terminated
+2017-03-26 22:04:36,930 INFO  [main] root: Connection established
+2017-03-26 22:04:36,944 DEBUG [main] root: INSIDE ECS SHUTDOWN, ABOUT TO SET LISTENER RUNNING TO FALSE
+2017-03-26 22:04:36,946 INFO  [Thread-45] root: Socket is closed
+2017-03-26 22:13:25,828 INFO  [main] root: Added the server server1 127.0.0.1 50000 to server pool
+2017-03-26 22:13:25,829 INFO  [main] root: Added the server server2 127.0.0.1 50001 to server pool
+2017-03-26 22:13:25,829 INFO  [main] root: Added the server server3 127.0.0.1 50002 to server pool
+2017-03-26 22:13:25,829 INFO  [main] root: Added the server server4 127.0.0.1 50003 to server pool
+2017-03-26 22:13:25,830 INFO  [main] root: Added the server server5 127.0.0.1 50004 to server pool
+2017-03-26 22:13:25,830 INFO  [main] root: Added the server server6 127.0.0.1 50005 to server pool
+2017-03-26 22:13:25,830 INFO  [main] root: Added the server server7 127.0.0.1 50006 to server pool
+2017-03-26 22:13:25,830 INFO  [main] root: Added the server server8 127.0.0.1 50007 to server pool
+2017-03-26 22:13:25,830 INFO  [main] root: Successfully added all configs
+2017-03-26 22:13:25,831 INFO  [Thread-45] root: ECS listening on port: 8888
+2017-03-26 22:13:25,836 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:13:25,837 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50000 10 FIFO 3fcd22b0982532a0 ddc3fd80341f8d8f3aa6792ddea83d9e & to launch script
+2017-03-26 22:13:26,134 INFO  [main] root: Connection established
+2017-03-26 22:13:26,152 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:13:26,152 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50001 10 FIFO 3fe9ff9931fabf32 61235262bbcf66352227ca8fac0615f3 & to launch script
+2017-03-26 22:13:26,282 ERROR [Thread-44] root: Connection lost!
+2017-03-26 22:13:26,283 DEBUG [Thread-44] root: tearing down the connection ...
+2017-03-26 22:13:26,283 DEBUG [Thread-44] root: connection closed!
+2017-03-26 22:13:26,283 WARN  [Thread-44] root: Connection lost.
+2017-03-26 22:13:26,469 INFO  [main] root: Connection established
+2017-03-26 22:13:26,483 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:13:26,483 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50002 10 FIFO 3f8e132940c29c00 1752af20beba3cdb5e87f5be2dd3c5de & to launch script
+2017-03-26 22:13:26,698 INFO  [main] root: Connection established
+2017-03-26 22:13:26,711 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:13:26,711 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50003 10 FIFO 3fe90eccc71daa4d 6020eaa7d5ae97c154bf98f6e8987d4 & to launch script
+2017-03-26 22:13:27,025 INFO  [main] root: Connection established
+2017-03-26 22:13:27,041 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:13:27,041 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50004 10 FIFO 3f95727dfe195680 1d4069d9c7595fd46ff64e61cba5519e & to launch script
+2017-03-26 22:13:27,250 INFO  [main] root: Connection established
+2017-03-26 22:13:27,261 DEBUG [main] root: Metadata Stringified: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004
+2017-03-26 22:13:27,261 DEBUG [main] root: Current order of hashes: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-26 22:13:27,265 INFO  [main] root: Connection established
+2017-03-26 22:13:27,271 INFO  [main] root: Connection established
+2017-03-26 22:13:27,271 INFO  [main] root: try to close connection ...
+2017-03-26 22:13:27,272 DEBUG [main] root: tearing down the connection ...
+2017-03-26 22:13:27,272 DEBUG [main] root: connection closed!
+2017-03-26 22:13:27,272 INFO  [main] root: Connection terminated
+2017-03-26 22:13:27,272 INFO  [main] root: Connection established
+2017-03-26 22:13:27,285 DEBUG [main] root: INSIDE ECS SHUTDOWN, ABOUT TO SET LISTENER RUNNING TO FALSE
+2017-03-26 22:13:27,287 INFO  [Thread-45] root: Socket is closed
+2017-03-26 22:28:20,725 INFO  [main] root: Added the server server1 127.0.0.1 50000 to server pool
+2017-03-26 22:28:20,725 INFO  [main] root: Added the server server2 127.0.0.1 50001 to server pool
+2017-03-26 22:28:20,726 INFO  [main] root: Added the server server3 127.0.0.1 50002 to server pool
+2017-03-26 22:28:20,726 INFO  [main] root: Added the server server4 127.0.0.1 50003 to server pool
+2017-03-26 22:28:20,726 INFO  [main] root: Added the server server5 127.0.0.1 50004 to server pool
+2017-03-26 22:28:20,726 INFO  [main] root: Added the server server6 127.0.0.1 50005 to server pool
+2017-03-26 22:28:20,727 INFO  [main] root: Added the server server7 127.0.0.1 50006 to server pool
+2017-03-26 22:28:20,727 INFO  [main] root: Added the server server8 127.0.0.1 50007 to server pool
+2017-03-26 22:28:20,727 INFO  [main] root: Successfully added all configs
+2017-03-26 22:28:20,727 INFO  [Thread-45] root: ECS listening on port: 8888
+2017-03-26 22:28:20,734 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:28:20,736 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50000 10 FIFO 3fc33b2ec53262f4 ddc3fd80341f8d8f3aa6792ddea83d9e & to launch script
+2017-03-26 22:28:20,973 INFO  [main] root: Connection established
+2017-03-26 22:28:20,982 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:28:20,983 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50001 10 FIFO 3fe8645d421def3b 61235262bbcf66352227ca8fac0615f3 & to launch script
+2017-03-26 22:28:21,155 ERROR [Thread-44] root: Connection lost!
+2017-03-26 22:28:21,155 DEBUG [Thread-44] root: tearing down the connection ...
+2017-03-26 22:28:21,155 DEBUG [Thread-44] root: connection closed!
+2017-03-26 22:28:21,155 WARN  [Thread-44] root: Connection lost.
+2017-03-26 22:28:21,296 INFO  [main] root: Connection established
+2017-03-26 22:28:21,306 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:28:21,306 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50002 10 FIFO 3fbcf1097380fce8 1752af20beba3cdb5e87f5be2dd3c5de & to launch script
+2017-03-26 22:28:21,516 INFO  [main] root: Connection established
+2017-03-26 22:28:21,528 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:28:21,529 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50003 10 FIFO 3fe40471c5c1ea3b 6020eaa7d5ae97c154bf98f6e8987d4 & to launch script
+2017-03-26 22:28:21,741 INFO  [main] root: Connection established
+2017-03-26 22:28:21,750 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-26 22:28:21,750 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50004 10 FIFO 3fc599fc3042a438 1d4069d9c7595fd46ff64e61cba5519e & to launch script
+2017-03-26 22:28:21,960 INFO  [main] root: Connection established
+2017-03-26 22:28:21,980 DEBUG [main] root: Metadata Stringified: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004
+2017-03-26 22:28:21,980 DEBUG [main] root: Current order of hashes: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-26 22:28:21,985 INFO  [main] root: Connection established
+2017-03-26 22:28:21,991 INFO  [main] root: Connection established
+2017-03-26 22:28:21,991 INFO  [main] root: try to close connection ...
+2017-03-26 22:28:21,991 DEBUG [main] root: tearing down the connection ...
+2017-03-26 22:28:21,992 DEBUG [main] root: connection closed!
+2017-03-26 22:28:21,992 INFO  [main] root: Connection terminated
+2017-03-26 22:28:21,992 INFO  [main] root: Connection established
+2017-03-26 22:28:22,010 DEBUG [main] root: INSIDE ECS SHUTDOWN, ABOUT TO SET LISTENER RUNNING TO FALSE
+2017-03-26 22:28:22,012 INFO  [Thread-45] root: Socket is closed
+2017-03-31 16:13:59,395 INFO  [main] root: Added the server server1 127.0.0.1 50000 to server pool
+2017-03-31 16:13:59,396 INFO  [main] root: Added the server server2 127.0.0.1 50001 to server pool
+2017-03-31 16:13:59,396 INFO  [main] root: Added the server server3 127.0.0.1 50002 to server pool
+2017-03-31 16:13:59,396 INFO  [main] root: Added the server server4 127.0.0.1 50003 to server pool
+2017-03-31 16:13:59,397 INFO  [main] root: Added the server server5 127.0.0.1 50004 to server pool
+2017-03-31 16:13:59,397 INFO  [main] root: Added the server server6 127.0.0.1 50005 to server pool
+2017-03-31 16:13:59,397 INFO  [main] root: Added the server server7 127.0.0.1 50006 to server pool
+2017-03-31 16:13:59,398 INFO  [main] root: Added the server server8 127.0.0.1 50007 to server pool
+2017-03-31 16:13:59,398 INFO  [main] root: Successfully added all configs
+2017-03-31 16:13:59,398 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-31 16:13:59,399 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50000 10 FIFO 3fe96202091372ea ddc3fd80341f8d8f3aa6792ddea83d9e & to launch script
+2017-03-31 16:13:59,419 INFO  [main] root: Connection established
+2017-03-31 16:13:59,422 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-31 16:13:59,422 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50001 10 FIFO 3fd7c400a29114c6 61235262bbcf66352227ca8fac0615f3 & to launch script
+2017-03-31 16:13:59,439 INFO  [main] root: Connection established
+2017-03-31 16:13:59,441 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-31 16:13:59,442 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50002 10 FIFO 3fdfe27ded0a0a0a 1752af20beba3cdb5e87f5be2dd3c5de & to launch script
+2017-03-31 16:13:59,462 INFO  [main] root: Connection established
+2017-03-31 16:13:59,465 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-31 16:13:59,466 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50003 10 FIFO 3fd258e8836f8a92 6020eaa7d5ae97c154bf98f6e8987d4 & to launch script
+2017-03-31 16:13:59,525 INFO  [main] root: Connection established
+2017-03-31 16:13:59,576 DEBUG [main] root: Successfully deleted previous launch script
+2017-03-31 16:13:59,587 DEBUG [main] root: Added server launch command nohup java -jar ms3-server.jar 50004 10 FIFO 3fef64e95fcbbdb4 1d4069d9c7595fd46ff64e61cba5519e & to launch script
+2017-03-31 16:13:59,616 INFO  [main] root: Connection established
+2017-03-31 16:13:59,620 DEBUG [main] root: Metadata Stringified: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004
+2017-03-31 16:13:59,620 DEBUG [main] root: Current order of hashes: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-31 16:13:59,626 INFO  [main] root: Connection established
+2017-03-31 16:13:59,633 INFO  [main] root: Connection established
+2017-03-31 16:13:59,633 INFO  [main] root: try to close connection ...
+2017-03-31 16:13:59,634 DEBUG [main] root: tearing down the connection ...
+2017-03-31 16:13:59,634 DEBUG [main] root: connection closed!
+2017-03-31 16:13:59,634 INFO  [main] root: Connection terminated
+2017-03-31 16:13:59,635 INFO  [main] root: Connection established
+2017-03-31 16:13:59,655 DEBUG [main] root: INSIDE ECS SHUTDOWN, ABOUT TO SET LISTENER RUNNING TO FALSE

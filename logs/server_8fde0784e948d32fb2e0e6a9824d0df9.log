@@ -1,0 +1,556 @@
+2017-03-31 16:13:13,772 DEBUG [main] root: Password added as: 3fe72968f397c955
+2017-03-31 16:13:13,773 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:13:13,773 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:13:13,783 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:13:13,785 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:13:13,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:13,786 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:13:13,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:13,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:13:13,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:13:13,786 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:13:13,786 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:13:13,792 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:13:13,818 INFO  [Thread-0] root: Connected to localhost on port 51320
+2017-03-31 16:13:13,818 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:13:13,820 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:13:13,820 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:13:13,820 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:13:13,821 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:13,821 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:13,821 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:13:13,881 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:13:13,885 INFO  [Thread-3] root: Successfully set server status to STOP
+2017-03-31 16:13:13,906 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:13:16,174 DEBUG [main] root: Password added as: 3fe18420da99fce8
+2017-03-31 16:13:16,175 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:13:16,175 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:13:16,184 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:13:16,186 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:13:16,186 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:16,186 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:13:16,187 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:16,187 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:13:16,187 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:13:16,187 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:13:16,187 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:13:16,196 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:13:16,218 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:13:16,220 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:13:16,220 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:13:16,220 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:13:16,221 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:16,221 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:16,221 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:13:16,227 INFO  [Thread-0] root: Connected to localhost on port 51579
+2017-03-31 16:13:16,234 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:13:16,315 INFO  [Thread-0] root: Connected to localhost on port 51583
+2017-03-31 16:13:16,328 DEBUG [Thread-5] root: trying to put into FS for <no:no>
+2017-03-31 16:13:16,329 DEBUG [Thread-5] root: Finished putting to local path at +src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:16,331 INFO  [Thread-5] root: PUT success value no at key no
+2017-03-31 16:13:16,362 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:13:16,362 DEBUG [Thread-3] root: updating existing metadata
+2017-03-31 16:13:16,362 DEBUG [Thread-3] root: old predecessor :[61235262bbcf66352227ca8fac0615f3, 6020eaa7d5ae97c154bf98f6e8987d4]
+2017-03-31 16:13:16,362 DEBUG [Thread-3] root: old successor: [d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-31 16:13:16,363 DEBUG [Thread-3] root: no opt because this node will be removed
+2017-03-31 16:13:16,363 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:13:16,400 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:13:16,400 DEBUG [Thread-3] root: move begins
+2017-03-31 16:13:16,400 DEBUG [Thread-3] root: received message: 8fde0784e948d32fb2e0e6a9824d0df9,d9c48d384cfef4edfc3305610fb2c31a
+2017-03-31 16:13:16,401 DEBUG [Thread-3] root: split range reci success
+2017-03-31 16:13:16,401 DEBUG [Thread-3] root: range_recipient length: 2
+2017-03-31 16:13:16,401 INFO  [Thread-3] root: moving local data
+2017-03-31 16:13:16,401 DEBUG [Thread-3] root: no.txt
+2017-03-31 16:13:16,401 DEBUG [Thread-3] root: without .txt: no
+2017-03-31 16:13:16,402 DEBUG [Thread-3] root: hashed name of current key: 7fa3b767c460b54a2be4d49030b349c7
+2017-03-31 16:13:16,402 DEBUG [Thread-3] root: moving one element
+2017-03-31 16:13:16,402 DEBUG [Thread-3] root: replicant destinations for transferring data: [ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:13:16,403 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:13:16,432 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:13:16,433 DEBUG [Thread-3] root: clean up begins
+2017-03-31 16:13:16,433 DEBUG [Thread-3] root: Files in directory before cleanup: [Ljava.io.File;@38faada1
+2017-03-31 16:13:16,435 DEBUG [Thread-3] root: deleting from the following replica servers: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e]
+2017-03-31 16:13:16,435 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1752af20beba3cdb5e87f5be2dd3c5de/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:13:16,435 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1d4069d9c7595fd46ff64e61cba5519e/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:13:16,436 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:13:16,438 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:13:42,108 DEBUG [main] root: Password added as: 3feae83773b94208
+2017-03-31 16:13:42,109 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:13:42,109 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:13:42,120 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:13:42,122 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:13:42,127 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:13:42,141 INFO  [Thread-0] root: Connected to localhost on port 52621
+2017-03-31 16:13:42,142 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:13:42,143 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:13:42,144 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:13:42,144 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:13:42,144 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:42,144 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:13:42,144 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:13:45,531 INFO  [Thread-0] root: Connected to localhost on port 52629
+2017-03-31 16:13:45,531 ERROR [Thread-5] root: Connection lost!
+2017-03-31 16:13:47,286 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:13:55,676 INFO  [Thread-0] root: Connected to localhost on port 52651
+2017-03-31 16:13:55,676 ERROR [Thread-8] root: Connection lost!
+2017-03-31 16:13:57,460 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:14:04,139 ERROR [Thread-3] root: Connection lost!
+2017-03-31 16:14:05,860 ERROR [Thread-11] root: Connection lost!
+2017-03-31 16:14:05,860 INFO  [Thread-0] root: Connected to localhost on port 52673
+2017-03-31 16:14:08,272 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:14:16,081 ERROR [Thread-14] root: Connection lost!
+2017-03-31 16:14:16,084 INFO  [Thread-0] root: Connected to localhost on port 52681
+2017-03-31 16:14:18,536 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:14:26,294 ERROR [Thread-17] root: Connection lost!
+2017-03-31 16:14:26,294 INFO  [Thread-0] root: Connected to localhost on port 52694
+2017-03-31 16:14:29,107 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:14:36,608 ERROR [Thread-20] root: Connection lost!
+2017-03-31 16:14:36,608 INFO  [Thread-0] root: Connected to localhost on port 52702
+2017-03-31 16:14:39,849 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:14:46,852 ERROR [Thread-23] root: Connection lost!
+2017-03-31 16:14:46,854 INFO  [Thread-0] root: Connected to localhost on port 52710
+2017-03-31 16:14:50,146 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:14:57,062 INFO  [Thread-0] root: Connected to localhost on port 52718
+2017-03-31 16:14:57,064 ERROR [Thread-26] root: Connection lost!
+2017-03-31 16:15:00,380 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:15:07,300 INFO  [Thread-0] root: Connected to localhost on port 52726
+2017-03-31 16:15:07,300 ERROR [Thread-29] root: Connection lost!
+2017-03-31 16:15:10,700 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:15:17,720 ERROR [Thread-32] root: Connection lost!
+2017-03-31 16:15:17,721 INFO  [Thread-0] root: Connected to localhost on port 52734
+2017-03-31 16:15:21,206 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:15:28,087 ERROR [Thread-35] root: Connection lost!
+2017-03-31 16:15:28,087 INFO  [Thread-0] root: Connected to localhost on port 52742
+2017-03-31 16:15:31,478 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:15:38,301 INFO  [Thread-0] root: Connected to localhost on port 52750
+2017-03-31 16:15:38,302 ERROR [Thread-38] root: Connection lost!
+2017-03-31 16:15:41,608 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:15:48,492 ERROR [Thread-41] root: Connection lost!
+2017-03-31 16:15:48,495 INFO  [Thread-0] root: Connected to localhost on port 52758
+2017-03-31 16:15:51,907 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:15:58,617 ERROR [Thread-44] root: Connection lost!
+2017-03-31 16:15:58,617 INFO  [Thread-0] root: Connected to localhost on port 52766
+2017-03-31 16:16:02,036 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:16:08,806 ERROR [Thread-47] root: Connection lost!
+2017-03-31 16:16:08,807 INFO  [Thread-0] root: Connected to localhost on port 52774
+2017-03-31 16:16:12,075 WARN  [Thread-1] root: New heartbeat socket is broken. Sending ECS warning message
+2017-03-31 16:16:12,076 DEBUG [Thread-1] root: Hash of failed server: d9c48d384cfef4edfc3305610fb2c31a
+2017-03-31 16:16:12,076 DEBUG [Thread-1] root: Trying to connect with ECS
+2017-03-31 16:16:12,077 ERROR [Thread-1] root: Error in connecting with ECS: 
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at app_kvServer.HeartBeat.run(HeartBeat.java:90)
+2017-03-31 16:16:18,879 ERROR [Thread-49] root: Connection lost!
+2017-03-31 16:16:18,880 INFO  [Thread-0] root: Connected to localhost on port 53779
+2017-03-31 16:17:45,164 DEBUG [main] root: Password added as: 3fde512e0695f472
+2017-03-31 16:17:45,164 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:17:45,164 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:17:45,174 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:17:45,177 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:17:45,182 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:17:45,202 INFO  [Thread-0] root: Connected to localhost on port 57834
+2017-03-31 16:17:45,202 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:17:45,203 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:17:45,204 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:17:45,204 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:17:45,204 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:45,204 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:45,204 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:17:45,285 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:17:45,291 INFO  [Thread-3] root: Successfully set server status to STOP
+2017-03-31 16:17:45,318 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:17:47,478 DEBUG [main] root: Password added as: 3fc67039331eca74
+2017-03-31 16:17:47,478 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:17:47,479 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:17:47,487 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:17:47,488 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:17:47,489 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:47,489 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:17:47,489 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:47,489 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:17:47,489 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:17:47,489 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:17:47,489 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:17:47,493 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:17:47,525 INFO  [Thread-0] root: Connected to localhost on port 58092
+2017-03-31 16:17:47,526 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:17:47,528 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:17:47,528 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:17:47,529 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:17:47,529 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:47,529 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:47,529 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:17:47,537 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:17:47,629 INFO  [Thread-0] root: Connected to localhost on port 58096
+2017-03-31 16:17:47,639 DEBUG [Thread-5] root: trying to put into FS for <no:no>
+2017-03-31 16:17:47,640 DEBUG [Thread-5] root: Finished putting to local path at +src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:17:47,640 INFO  [Thread-5] root: PUT success value no at key no
+2017-03-31 16:17:47,673 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:17:47,673 DEBUG [Thread-3] root: updating existing metadata
+2017-03-31 16:17:47,674 DEBUG [Thread-3] root: old predecessor :[61235262bbcf66352227ca8fac0615f3, 6020eaa7d5ae97c154bf98f6e8987d4]
+2017-03-31 16:17:47,674 DEBUG [Thread-3] root: old successor: [d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-31 16:17:47,674 DEBUG [Thread-3] root: no opt because this node will be removed
+2017-03-31 16:17:47,674 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:17:47,725 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:17:47,725 DEBUG [Thread-3] root: move begins
+2017-03-31 16:17:47,725 DEBUG [Thread-3] root: received message: 8fde0784e948d32fb2e0e6a9824d0df9,d9c48d384cfef4edfc3305610fb2c31a
+2017-03-31 16:17:47,726 DEBUG [Thread-3] root: split range reci success
+2017-03-31 16:17:47,726 DEBUG [Thread-3] root: range_recipient length: 2
+2017-03-31 16:17:47,726 INFO  [Thread-3] root: moving local data
+2017-03-31 16:17:47,726 DEBUG [Thread-3] root: no.txt
+2017-03-31 16:17:47,726 DEBUG [Thread-3] root: without .txt: no
+2017-03-31 16:17:47,727 DEBUG [Thread-3] root: hashed name of current key: 7fa3b767c460b54a2be4d49030b349c7
+2017-03-31 16:17:47,727 DEBUG [Thread-3] root: moving one element
+2017-03-31 16:17:47,727 DEBUG [Thread-3] root: replicant destinations for transferring data: [ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:17:47,728 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:17:47,758 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:17:47,758 DEBUG [Thread-3] root: clean up begins
+2017-03-31 16:17:47,759 DEBUG [Thread-3] root: Files in directory before cleanup: [Ljava.io.File;@38faada1
+2017-03-31 16:17:47,759 DEBUG [Thread-3] root: deleting from the following replica servers: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e]
+2017-03-31 16:17:47,759 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1752af20beba3cdb5e87f5be2dd3c5de/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:17:47,760 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1d4069d9c7595fd46ff64e61cba5519e/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:17:47,761 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:17:47,764 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:23:14,400 DEBUG [main] root: Password added as: 3fe3475980ea2bb2
+2017-03-31 16:23:14,400 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:23:14,400 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:23:14,409 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:23:14,413 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:23:14,414 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:23:14,414 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:23:14,414 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:23:14,414 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:23:14,414 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:23:14,414 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:23:14,414 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:23:14,422 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:23:14,429 INFO  [Thread-0] root: Connected to localhost on port 60165
+2017-03-31 16:23:14,430 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:23:14,431 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:23:14,431 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:23:14,431 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:23:14,432 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:23:14,432 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:23:14,432 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:23:15,730 ERROR [Thread-3] root: Connection lost!
+2017-03-31 16:23:17,955 INFO  [Thread-0] root: Connected to localhost on port 60167
+2017-03-31 16:23:17,955 ERROR [Thread-5] root: Connection lost!
+2017-03-31 16:23:19,604 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:23:28,078 ERROR [Thread-8] root: Connection lost!
+2017-03-31 16:23:28,078 INFO  [Thread-0] root: Connected to localhost on port 60175
+2017-03-31 16:23:29,758 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:23:38,239 ERROR [Thread-11] root: Connection lost!
+2017-03-31 16:23:38,239 INFO  [Thread-0] root: Connected to localhost on port 60183
+2017-03-31 16:23:39,984 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:23:48,367 ERROR [Thread-14] root: Connection lost!
+2017-03-31 16:23:48,367 INFO  [Thread-0] root: Connected to localhost on port 60191
+2017-03-31 16:23:50,422 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:23:59,450 ERROR [Thread-17] root: Connection lost!
+2017-03-31 16:23:59,451 INFO  [Thread-0] root: Connected to localhost on port 60199
+2017-03-31 16:24:00,734 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:24:09,775 ERROR [Thread-20] root: Connection lost!
+2017-03-31 16:24:09,775 INFO  [Thread-0] root: Connected to localhost on port 60706
+2017-03-31 16:24:10,849 DEBUG [Thread-1] root: Received heartbeat ack
+2017-03-31 16:24:53,586 DEBUG [main] root: Password added as: 3fe17804639a2978
+2017-03-31 16:24:53,587 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:24:53,587 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:24:53,595 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:24:53,597 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:24:53,597 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:24:53,597 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:24:53,597 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:24:53,597 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:24:53,597 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:24:53,598 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:24:53,598 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:24:53,601 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:24:53,630 INFO  [Thread-0] root: Connected to localhost on port 61970
+2017-03-31 16:24:53,631 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:24:53,631 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:24:53,632 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:24:53,632 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:24:53,632 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:24:53,632 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:24:53,632 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:24:53,654 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:25:33,616 DEBUG [main] root: Password added as: 3fd2cc05f99a0f84
+2017-03-31 16:25:33,616 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:25:33,616 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:25:33,625 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:25:33,628 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:25:33,628 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:33,628 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:25:33,628 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:33,628 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:25:33,628 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:25:33,628 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:25:33,629 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:25:33,632 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:25:33,652 INFO  [Thread-0] root: Connected to localhost on port 62751
+2017-03-31 16:25:33,653 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:25:33,655 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:25:33,655 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:25:33,655 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:25:33,656 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:33,656 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:33,656 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:25:33,720 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:25:33,724 INFO  [Thread-3] root: Successfully set server status to STOP
+2017-03-31 16:25:33,752 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:25:35,776 DEBUG [main] root: Password added as: 3fe2d8752e05f7e5
+2017-03-31 16:25:35,776 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:25:35,776 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:25:35,784 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:25:35,786 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:25:35,790 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:25:35,820 INFO  [Thread-0] root: Connected to localhost on port 63009
+2017-03-31 16:25:35,822 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:25:35,823 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:25:35,824 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:25:35,824 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:25:35,824 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:35,825 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:35,825 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:25:35,831 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:25:35,909 INFO  [Thread-0] root: Connected to localhost on port 63013
+2017-03-31 16:25:35,924 DEBUG [Thread-5] root: trying to put into FS for <no:no>
+2017-03-31 16:25:35,925 DEBUG [Thread-5] root: Finished putting to local path at +src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:25:35,927 INFO  [Thread-5] root: PUT success value no at key no
+2017-03-31 16:25:35,992 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:25:35,992 DEBUG [Thread-3] root: updating existing metadata
+2017-03-31 16:25:35,992 DEBUG [Thread-3] root: old predecessor :[61235262bbcf66352227ca8fac0615f3, 6020eaa7d5ae97c154bf98f6e8987d4]
+2017-03-31 16:25:35,993 DEBUG [Thread-3] root: old successor: [d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-31 16:25:35,993 DEBUG [Thread-3] root: no opt because this node will be removed
+2017-03-31 16:25:35,993 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:25:36,041 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:25:36,041 DEBUG [Thread-3] root: move begins
+2017-03-31 16:25:36,041 DEBUG [Thread-3] root: received message: 8fde0784e948d32fb2e0e6a9824d0df9,d9c48d384cfef4edfc3305610fb2c31a
+2017-03-31 16:25:36,042 DEBUG [Thread-3] root: split range reci success
+2017-03-31 16:25:36,043 DEBUG [Thread-3] root: range_recipient length: 2
+2017-03-31 16:25:36,043 INFO  [Thread-3] root: moving local data
+2017-03-31 16:25:36,043 DEBUG [Thread-3] root: no.txt
+2017-03-31 16:25:36,044 DEBUG [Thread-3] root: without .txt: no
+2017-03-31 16:25:36,044 DEBUG [Thread-3] root: hashed name of current key: 7fa3b767c460b54a2be4d49030b349c7
+2017-03-31 16:25:36,044 DEBUG [Thread-3] root: moving one element
+2017-03-31 16:25:36,045 DEBUG [Thread-3] root: replicant destinations for transferring data: [ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:25:36,047 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:25:36,093 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:25:36,094 DEBUG [Thread-3] root: clean up begins
+2017-03-31 16:25:36,095 DEBUG [Thread-3] root: Files in directory before cleanup: [Ljava.io.File;@62320b15
+2017-03-31 16:25:36,095 DEBUG [Thread-3] root: deleting from the following replica servers: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e]
+2017-03-31 16:25:36,095 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1752af20beba3cdb5e87f5be2dd3c5de/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:25:36,096 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1d4069d9c7595fd46ff64e61cba5519e/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:25:36,098 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:25:36,102 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:26:01,415 DEBUG [main] root: Password added as: 3fec4d3b10594320
+2017-03-31 16:26:01,415 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:26:01,415 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:26:01,423 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:26:01,425 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:26:01,429 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:26:01,464 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:26:01,465 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:26:01,465 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:26:01,465 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:26:01,466 INFO  [Thread-0] root: Connected to localhost on port 64047
+2017-03-31 16:26:01,466 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:26:01,466 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:26:01,467 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:26:01,503 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:42:33,930 DEBUG [main] root: Password added as: 3fcf61b06d3b062c
+2017-03-31 16:42:33,931 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:42:33,931 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:42:33,941 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:42:33,943 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:42:33,943 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:33,944 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:42:33,944 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:33,944 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:42:33,944 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:42:33,944 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:42:33,944 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:42:33,948 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:42:33,967 INFO  [Thread-0] root: Connected to localhost on port 49763
+2017-03-31 16:42:33,968 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:42:33,971 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:42:33,971 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:42:33,971 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:42:33,972 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:33,972 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:33,972 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:42:34,041 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:42:34,046 INFO  [Thread-3] root: Successfully set server status to STOP
+2017-03-31 16:42:34,056 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:42:36,369 DEBUG [main] root: Password added as: 3fe28a210f1c307f
+2017-03-31 16:42:36,369 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:42:36,369 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:42:36,380 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:42:36,382 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:42:36,387 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:42:36,393 INFO  [Thread-0] root: Connected to localhost on port 50029
+2017-03-31 16:42:36,395 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:42:36,396 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:42:36,396 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:42:36,396 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:42:36,397 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:36,397 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:36,397 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:42:36,403 INFO  [Thread-3] root: Successfully set server status to START
+2017-03-31 16:42:36,481 INFO  [Thread-0] root: Connected to localhost on port 50033
+2017-03-31 16:42:36,499 DEBUG [Thread-5] root: trying to put into FS for <no:no>
+2017-03-31 16:42:36,500 DEBUG [Thread-5] root: Finished putting to local path at +src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:42:36,501 INFO  [Thread-5] root: PUT success value no at key no
+2017-03-31 16:42:36,533 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:42:36,533 DEBUG [Thread-3] root: updating existing metadata
+2017-03-31 16:42:36,533 DEBUG [Thread-3] root: old predecessor :[61235262bbcf66352227ca8fac0615f3, 6020eaa7d5ae97c154bf98f6e8987d4]
+2017-03-31 16:42:36,533 DEBUG [Thread-3] root: old successor: [d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e]
+2017-03-31 16:42:36,534 DEBUG [Thread-3] root: no opt because this node will be removed
+2017-03-31 16:42:36,534 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:42:36,592 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:42:36,592 DEBUG [Thread-3] root: move begins
+2017-03-31 16:42:36,592 DEBUG [Thread-3] root: received message: 8fde0784e948d32fb2e0e6a9824d0df9,d9c48d384cfef4edfc3305610fb2c31a
+2017-03-31 16:42:36,593 DEBUG [Thread-3] root: split range reci success
+2017-03-31 16:42:36,593 DEBUG [Thread-3] root: range_recipient length: 2
+2017-03-31 16:42:36,593 INFO  [Thread-3] root: moving local data
+2017-03-31 16:42:36,594 DEBUG [Thread-3] root: no.txt
+2017-03-31 16:42:36,595 DEBUG [Thread-3] root: without .txt: no
+2017-03-31 16:42:36,595 DEBUG [Thread-3] root: hashed name of current key: 7fa3b767c460b54a2be4d49030b349c7
+2017-03-31 16:42:36,595 DEBUG [Thread-3] root: moving one element
+2017-03-31 16:42:36,595 DEBUG [Thread-3] root: replicant destinations for transferring data: [ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:42:36,596 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:42:36,632 DEBUG [Thread-3] root: INSIDE MOVE DATA BLOCK
+2017-03-31 16:42:36,632 DEBUG [Thread-3] root: clean up begins
+2017-03-31 16:42:36,633 DEBUG [Thread-3] root: Files in directory before cleanup: [Ljava.io.File;@29dacfba
+2017-03-31 16:42:36,633 DEBUG [Thread-3] root: deleting from the following replica servers: [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e]
+2017-03-31 16:42:36,633 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1752af20beba3cdb5e87f5be2dd3c5de/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:42:36,633 DEBUG [Thread-3] root: Trying to find replica path name: src/storage/1d4069d9c7595fd46ff64e61cba5519e/8fde0784e948d32fb2e0e6a9824d0df9/no.txt
+2017-03-31 16:42:36,634 INFO  [Thread-3] root: Successfully moved/deleted files
+2017-03-31 16:42:36,639 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:43:02,081 DEBUG [main] root: Password added as: 3fe1e2c2856713b4
+2017-03-31 16:43:02,082 DEBUG [main] root: Set self as: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:43:02,082 INFO  [Thread-0] root: Initializing this server ...
+2017-03-31 16:43:02,092 INFO  [Thread-0] root: Server listening on port: 50007
+2017-03-31 16:43:02,094 DEBUG [Thread-0] root: 8fde0784e948d32fb2e0e6a9824d0df9
+2017-03-31 16:43:02,094 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:43:02,094 DEBUG [Thread-0] root: src/storage/
+2017-03-31 16:43:02,094 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:43:02,094 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localFirstPredecessorPath/
+2017-03-31 16:43:02,094 DEBUG [Thread-0] root: src/storage/8fde0784e948d32fb2e0e6a9824d0df9/localSecondPredecessorPath/
+2017-03-31 16:43:02,094 DEBUG [Thread-0] root: src/storage/globalFirstSuccessorPath/
+2017-03-31 16:43:02,095 DEBUG [Thread-0] root: src/storage/globalSecondSuccessorPath/
+2017-03-31 16:43:02,099 DEBUG [Thread-1] root: inside heartbeat run function
+2017-03-31 16:43:02,180 INFO  [Thread-0] root: Connected to localhost on port 51073
+2017-03-31 16:43:02,182 DEBUG [Thread-3] root: Begin updating metadata
+2017-03-31 16:43:02,183 DEBUG [Thread-3] root: New Metadata updated as: ddc3fd80341f8d8f3aa6792ddea83d9e,127.0.0.1,50000::61235262bbcf66352227ca8fac0615f3,127.0.0.1,50001::1752af20beba3cdb5e87f5be2dd3c5de,127.0.0.1,50002::6020eaa7d5ae97c154bf98f6e8987d4,127.0.0.1,50003::1d4069d9c7595fd46ff64e61cba5519e,127.0.0.1,50004::d9c48d384cfef4edfc3305610fb2c31a,127.0.0.1,50005::ea36ea4c34116912eddfd0a3e2faeedf,127.0.0.1,50006::8fde0784e948d32fb2e0e6a9824d0df9,127.0.0.1,50007
+2017-03-31 16:43:02,184 DEBUG [Thread-3] root: Order of metadata set as [1752af20beba3cdb5e87f5be2dd3c5de, 1d4069d9c7595fd46ff64e61cba5519e, 6020eaa7d5ae97c154bf98f6e8987d4, 61235262bbcf66352227ca8fac0615f3, 8fde0784e948d32fb2e0e6a9824d0df9, d9c48d384cfef4edfc3305610fb2c31a, ddc3fd80341f8d8f3aa6792ddea83d9e, ea36ea4c34116912eddfd0a3e2faeedf]
+2017-03-31 16:43:02,184 DEBUG [Thread-3] root: Server 8fde0784e948d32fb2e0e6a9824d0df9 Set predecessor as: 61235262bbcf66352227ca8fac0615f3
+2017-03-31 16:43:02,184 DEBUG [Thread-3] root: first replica set to src/storage/d9c48d384cfef4edfc3305610fb2c31a/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:43:02,185 DEBUG [Thread-3] root: second replica set to src/storage/ddc3fd80341f8d8f3aa6792ddea83d9e/8fde0784e948d32fb2e0e6a9824d0df9/
+2017-03-31 16:43:02,185 DEBUG [Thread-3] root: Finish updating metadata
+2017-03-31 16:43:02,209 INFO  [Thread-3] root: Successfully received shutdown request from admin. shutting down...
+2017-03-31 16:43:02,210 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,214 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,215 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,215 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,216 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,216 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,216 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,217 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,217 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,217 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,218 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
+2017-03-31 16:43:02,219 ERROR [Thread-0] root: Error! Unable to establish connection. 
+
+java.net.SocketException: Socket is closed
+	at java.net.ServerSocket.accept(ServerSocket.java:509)
+	at app_kvServer.KVServer.run(KVServer.java:75)
